@@ -1,7 +1,10 @@
-## Hi there 👋
+<h1>Hi, I'm Danilo! <br/><a <a href="https://www.linkedin.com/in/daniloj2195/">Cybersecurity Professional</a>
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
 
 <!--
-**daniloj95/daniloj95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
